@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yihiuvi.paulrouget.com/sitemap.xml
